@@ -1,0 +1,4 @@
+{"location":{"latitude": 1, "longitude": -1}, "message": "message1"}
+{"location":{"latitude": 2, "longitude": -2}, "message": "message2"}
+{"location":{"latitude": 3, "longitude": -3}, "message": "message3"}
+{"location":{"latitude": 4, "longitude": -4}, "message": "message4"}
