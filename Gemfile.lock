@@ -21,7 +21,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  grpc
+  grpc (= 1.65.2)
   grpc-tools
 
 RUBY VERSION
